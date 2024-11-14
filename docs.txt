@@ -4,3 +4,6 @@ Front-end - https://docs.google.com/document/d/1Okz5puok_yNvZbarpo-GNXsdLCamqIKp
 
 yibaf31958@inikale.com
 githubstrongpassword
+
+
+git push --set-upstream origin main
